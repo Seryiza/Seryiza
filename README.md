@@ -1,5 +1,5 @@
 ```
-GET /Seryiza/Seryiza/master/README.md
+GET /Seryiza/Seryiza/master/README.md HTTP/1.1
 Host: raw.githubusercontent.com
 
 - Я Сергей и я веб-разработчик
