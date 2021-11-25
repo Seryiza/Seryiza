@@ -1,6 +1,13 @@
-### Привет!
+```
+GET /Seryiza/Seryiza/master/README.md
+Host: raw.githubusercontent.com
 
-- Я Сергей и я **веб-разработчик**.
-- **Работаю** над [Look, Cats!](https://github.com/Seryiza/look-cats)
-- **Использую** PHP, JS
-- **Читаю** ["Руководство по PHP"](https://github.com/Seryiza/php-manual-learning), ["Современный учебник JavaScript"](https://github.com/Seryiza/learn.javascript.ru-solutions) и ["Семь языков за семь недель"](https://github.com/Seryiza/7L7W)
+- Я Сергей и я веб-разработчик
+- Живу в Южно-Сахалинске (МСК+8)
+- Часто пишу на PHP, JS; изучаю Lua, Clojure
+- В процессе перехода PHPStorm -> NeoVim
+- Хочу написать Ansible Playbook для быстрой настройки рабочего окружения
+- Веду несколько блокнотов по минималистичному Bullet Journal
+- Когда-нибудь заведу блог
+\n
+```
