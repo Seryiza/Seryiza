@@ -1,14 +1,9 @@
-```
-GET /Seryiza/Seryiza/master/README.md HTTP/1.1
-Host: raw.githubusercontent.com
+### 🫳✨ yo
 
-- Я Сергей и я веб-разработчик
-- Живу в Южно-Сахалинске (МСК+8)
-- Часто пишу на PHP, JS; изучаю Lua, Clojure
-- В процессе перехода PHPStorm -> NeoVim
-- Нравится концепция цветовой схемы Alabaster от Tonsky!
-- Хочу написать Ansible Playbook для быстрой настройки рабочего окружения
-- Веду несколько блокнотов по минималистичному Bullet Journal
-- Когда-нибудь заведу блог
-\n
-```
+I'm Sergey, you can call me Seryiza
+
+🔮 a software developer, gamer, and anime fan
+
+🍄 use emacs, nixos, firefox, remarkable
+
+🔫 love clojure, openness
