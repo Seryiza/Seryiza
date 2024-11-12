@@ -6,4 +6,4 @@ I'm Sergey, you can call me Seryiza
 
 🍄 use emacs, nixos, firefox, remarkable
 
-🔫 love clojure, openness
+🔫 love clojure, open things
