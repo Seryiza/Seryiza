@@ -7,3 +7,5 @@ I'm Sergey, you can call me Seryiza
 🍄 use emacs, nixos, firefox, remarkable
 
 🔫 love clojure, open things
+
+✍️ if you want write me on [mail](mailto:hey@seryiza.xyz), [telegram](https://t.me/Seryiza)
