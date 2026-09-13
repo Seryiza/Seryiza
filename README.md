@@ -1,6 +1,6 @@
 ### 🫳✨ yo
 
-I'm Sergey, you can call me Seryiza
+I'm Sergey, you can call me Seryiza /sɛˈriːzə/
 
 🔮 a software developer, gamer, and anime fan
 
